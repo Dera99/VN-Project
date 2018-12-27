@@ -27,7 +27,7 @@ label start:
 
     e "Hi."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    m "Nice to meet you"
 
     # This ends the game.
 
