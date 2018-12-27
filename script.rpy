@@ -25,9 +25,9 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Hi."
+    e "Hi, Nice To Meet you."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    m "Oh Hai, Nice to meet you too!"
 
     # This ends the game.
 
